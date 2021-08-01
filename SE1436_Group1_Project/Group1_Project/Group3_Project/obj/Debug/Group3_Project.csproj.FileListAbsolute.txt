@@ -1,0 +1,30 @@
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe.config
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.pdb
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.AssemblyReference.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.Properties.Resources.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.GenerateResource.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CoreCompileInputs.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.exe
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.pdb
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.FrmManage.resources
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CopyComplete
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmAutoMark.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmLogin.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmUpdate.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe.config
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\bin\Debug\Group3_Project.pdb
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\bin\Debug\stdole.dll
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmAutoMark.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmManage.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmLogin.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmUpdate.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.Properties.Resources.resources
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CopyComplete
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.exe
+C:\Users\ADMIN\Documents\FPTU\ExamMarkSoftWare-master\Group3_Project\Group3_Project\obj\Debug\Group3_Project.pdb

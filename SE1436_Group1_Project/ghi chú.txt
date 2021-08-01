@@ -1,0 +1,5 @@
+folder class_test to generate student and class into database
+folder test case to use to auto mark
+folder Group1_Project include source code of group1 project!
+
+Thank you Co Huong <3!!! 
